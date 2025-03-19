@@ -1,0 +1,18 @@
+names:
+- Dust Mask
+- Eye Wear
+- Glove
+- Protective Boots
+- Protective Helmet
+- Safety Vest
+- Shield
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: ppe_detection-v1x3l
+  url: https://universe.roboflow.com/project-uyrxf/ppe_detection-v1x3l/dataset/2
+  version: 2
+  workspace: project-uyrxf
+test: ../test/images
+train: ../train/images
+val: ../valid/images
